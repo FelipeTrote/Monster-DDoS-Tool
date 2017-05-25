@@ -12,7 +12,7 @@ http://forum.xpzone.net
 
 # lista useragent by Trote
 # lista keyword by Trote
-# lista robots_bots coded Trote
+# lista robots_bots coded by Trote
 
 **Adicionei esse codigo no script**
 def robots_list():
