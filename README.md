@@ -1,8 +1,5 @@
-# Monster-DDoS-Tool
-Monster DDoS Tool Denial of Service 2.0
-
-**Comandos**
-
+# Monster DDoS Tool Denial of Service 2.0
+# Comandos
     cd desktop
     cd monster
     monster.py https://forum.xpzone.net
@@ -13,7 +10,6 @@ Monster DDoS Tool Denial of Service 2.0
 # lista useragent by Trote
 # lista keyword by Trote
 # lista robots_bots coded by Trote
-
 **Adicionei esse código no script**
 
     def robots_list():
@@ -22,7 +18,7 @@ Monster DDoS Tool Denial of Service 2.0
     return(robots_bots)
 
     Accept-Language', 'pt-BR,pt;q=0.8
-foi ativado o https no script
+    foi ativado o https no script
 
      Monster DDoS Tool Denial of Service 2.0'
      Digite [URL] Exemplo: http://pmdb.org.br'
