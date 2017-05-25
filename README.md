@@ -8,13 +8,13 @@ cd monster
 monster.py https://forum.xpzone.net
 
 Site que foram testado o script monster.py
-
 http://forum.xpzone.net
 
 # lista useragent by Trote
 # lista keyword by Trote
-# lista robots_bots coded Trote 
-Adicionei esse codigo no script
+# lista robots_bots coded Trote
+
+**Adicionei esse codigo no script**
 def robots_list():
 	
   global robots_bots
@@ -25,38 +25,7 @@ return(robots_bots)
 Accept-Language', 'pt-BR,pt;q=0.8
 foi ativado o https no script
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-	
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
   Monster DDoS Tool Denial of Service 2.0'
   Digite [URL] Exemplo: http://pmdb.org.br'
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-"""                   ...
-                 ;::::;
-               ;::::; :;
-             ;:::::'   :;
-            ;:::::;     ;.
-           ,:::::'       ;           OOO
-           ::::::;       ;          OOOOO
-           ;:::::;       ;         OOOOOOOO
-          ,;::::::;     ;'         / OOOOOOO
-        ;:::::::::`. ,,,;.        /  / DOOOOOO
-      .';:::::::::::::::::;,     /  /     DOOOO
-     ,::::::;::::::;;;;::::;,   /  /        DOOO
-    ;`::::::`'::::::;;;::::: ,#/  /          DOOO
-    :`:::::::`;::::::;;::: ;::#  /            DOOO
-    ::`:::::::`;:::::::: ;::::# /              DOO
-    `:`:::::::`;:::::: ;::::::#/               DOO
-     :::`:::::::`;; ;:::::::::##                OO
-     ::::`:::::::`;::::::::;:::#                OO
-     `:::::`::::::::::::;'`:;::#                O
-      `:::::`::::::::;' /  / `:#                 
-       ::::::`:::::;'  /  /    
- __    :::__  :::::   /  /                __                       
-/  \     /  |                            /  |                       
-$$  \   /$$ | ______  _______   _______ _$$ |_    ______   ______   
-$$$  \ /$$$ |/      \/       \ /       / $$   |  /      \ /      \  
-$$$$  /$$$$ /$$$$$$  $$$$$$$  /$$$$$$$/$$$$$$/  /$$$$$$  /$$$$$$  | 
-$$ $$ $$/$$ $$ |  $$ $$ |  $$ $$      \  $$ | __$$    $$ $$ |  $$/  
-$$ |$$$/ $$ $$ \__$$ $$ |  $$ |$$$$$$  | $$ |/  $$$$$$$$/$$ | DDoS Tool     
-$$ | $/  $$ $$    $$/$$ |  $$ /     $$/  $$  $$/$$       $$ | Denial of Service     
-$$/      $$/ $$$$$$/ $$/   $$/$$$$$$$/    $$$$/  $$$$$$$/$$/  2.0
-"""
