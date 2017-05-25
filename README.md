@@ -27,8 +27,6 @@ foi ativado o https no script
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-  Monster DDoS Tool Denial of Service 2.0'
-	
-  Digite [URL] Exemplo: http://pmdb.org.br'
-	
+     Monster DDoS Tool Denial of Service 2.0'
+     Digite [URL] Exemplo: http://pmdb.org.br'
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
