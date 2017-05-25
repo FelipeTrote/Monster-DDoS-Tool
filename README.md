@@ -3,9 +3,9 @@ Monster DDoS Tool Denial of Service 2.0
 
 **Comandos**
 
-cd desktop
-cd monster 
-monster.py https://forum.xpzone.net
+    cd desktop
+    cd monster
+    monster.py https://forum.xpzone.net
 
 Site que foram testado o script monster.py
 http://forum.xpzone.net
