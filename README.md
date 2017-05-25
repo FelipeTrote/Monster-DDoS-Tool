@@ -14,14 +14,14 @@ Monster DDoS Tool Denial of Service 2.0
 # lista keyword by Trote
 # lista robots_bots coded by Trote
 
-**Adicionei esse codigo no script**
+**Adicionei esse código no script**
 
     def robots_list():
         global robots_bots
-        robots_bots.append('Allow: /<<<<< Paginas do site')
+        robots_bots.append('Allow: /<<<<< Páginas do site')
     return(robots_bots)
 
-Accept-Language', 'pt-BR,pt;q=0.8
+    Accept-Language', 'pt-BR,pt;q=0.8
 foi ativado o https no script
 
      Monster DDoS Tool Denial of Service 2.0'
